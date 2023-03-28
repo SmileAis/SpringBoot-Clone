@@ -3,11 +3,11 @@ spring:
     #laptop
 #    url: jdbc:h2:tcp://localhost/C:\Users\Won Seok\oneDrive77\OneDrive\jpashop
 
-    #desktop
-    #url: jdbc:h2:tcp://localhost/C:\Users\WonSeok\OneDrive77\OneDrive\jpashop
+#    desktop
+    url: jdbc:h2:tcp://localhost/C:\Users\WonSeok\OneDrive77\OneDrive\jpashop
 
-    # memoryMod
-    url : jdbc:h2:mem:test
+#    # memoryMod
+#    url : jdbc:h2:mem:test
 
     username: sa
     password:
